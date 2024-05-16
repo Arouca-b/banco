@@ -9,9 +9,9 @@ Primeiro projeto desenvolvido utilizando OO, sendo uma forma de praticar e adqui
 ## PROJETOS
 >Projetos já realizados durante o meu tempo na universisdade
 - C
-    - [Editor de Imagens](https://github.com/Arouca-b/Faculdade/tree/main/projetos%20-%20C/editor-imagens)
+    - [Editor de Imagens](https://github.com/Arouca-b/projetos-back/tree/main/C/editor-imagens)
 
-    - [Agenda](https://github.com/Arouca-b/Faculdade/tree/main/projetos%20-%20C/agenda)
+    - [Agenda](https://github.com/Arouca-b/projetos-back/tree/main/C/agenda)
 
-    - [Sistema Mercado](https://github.com/Arouca-b/Faculdade/tree/main/projetos%20-%20C/loja)
+    - [Sistema Mercado](https://github.com/Arouca-b/projetos-back/tree/main/C/loja)
 <br><br>
